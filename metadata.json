@@ -1,0 +1,5 @@
+{
+  "name": "NanoGen AI",
+  "description": "A powerful AI image generator and editor powered by Gemini 2.5 Flash Image (Nano Banana). Create stunning visuals or edit existing images with simple text prompts.",
+  "requestFramePermissions": []
+}
